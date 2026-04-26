@@ -1,7 +1,4 @@
-2026-04-26 23:19:43-root-DEBUG-This is a debug message
-2026-04-26 23:19:43-root-INFO-This is an info message
-2026-04-26 23:19:43-root-WARNING-This is a warning message
-2026-04-26 23:19:43-root-ERROR-This is an error message
-2026-04-26 23:19:43-root-CRITICAL-This is a critical message
-2026-04-26 23:19:43-root-DEBUG-Starting the application
-2026-04-26 23:19:43-root-DEBUG-Adding 5 and 10
+2026-04-26 23:26:38-logger1-DEBUG-This is a debug message from logger1
+2026-04-26 23:26:38-logger1-INFO-This is an info message from logger1
+2026-04-26 23:26:38-logger2-WARNING-This is a warning message from logger2
+2026-04-26 23:26:38-logger3-ERROR-This is an error message from logger3
